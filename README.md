@@ -1,15 +1,8 @@
-# Jose Estrada<br>React/TypeScript Developer
+# Jose Estrada<br>Software Engineer
 
-Hi, thanks for getting interested in my profile! 👋🏽
-
-I'm a Software Developer with over 3 years of experience building Web and Mobile Applications with React, React Native, TypeScript, Node.js, and Laravel frameworks. Proficient at deconstructing designs and translating wireframes into high quality code that can be reusable and maintainable over time. Strong knowledge in Object-Oriented Programming, React Patterns, Data Structures, and Databases.
+Hi, thanks for getting interested in my profile! 👋
 
 Feel free to explore my LinkedIn profile, portfolio & other links. 😉
-
-## What am I doing?
-
-- 👨🏽‍💻 Software Engineer @ Pinnacle Aerospace
-- 📚 Learning Node.js, Flutter, and React Testing
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -18,14 +11,15 @@ Feel free to explore my LinkedIn profile, portfolio & other links. 😉
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
-<hr>
+I'm a Software Engineer working full-time as a Front End Developer at Pinnacle Aerospace ✈️, with over 4 years of experience building Web and Mobile Applications in both small and large teams. I've been recognised by Pinnacle with a Spot Award ⭐️ for being an essential team player and adding valuable effort to my team's success. I use React and TypeScript, plus other tools like JetBrains' WebStorm, Postman, GitLab, and Jira.
 
-<a href="https://github.com/nadiemedicejose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiemedicejose&title_color=FFF&bg_color=000&theme=dark" />
-</a>
-<a href="https://github.com/nadiemedicejose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiemedicejose&title_color=FFF&bg_color=000&show_icons=true&count_private=true&theme=dark" />
-</a>
+Proficient at deconstructing mockup designs and translating wireframes into high quality code that can be reusable and maintainable over time. I also have some knowledge on databases, docker containers, and express servers.
+
+## What am I doing?
+
+- 👨🏽‍💻 Project Engineer @ Pinnacle Aerospace
+- 🧠 Learning Go, TypeScript, and React Testing
+
 
 [1.1]: /tags/Portfolio.svg "Portfolio"
 [2.1]: /tags/LinkedIn.svg "LinkedIn"
